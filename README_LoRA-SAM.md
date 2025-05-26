@@ -149,5 +149,4 @@ LoRA-SAM/
 
 Thanks to:
 - [Segment Anything Model](https://github.com/facebookresearch/segment-anything)
-- [SAM-LoRA](https://github.com/JamesQFreeman/Sam_LoRA)
 - [SUIM Dataset](https://irvlab.cs.umn.edu/resources/suim-dataset)
