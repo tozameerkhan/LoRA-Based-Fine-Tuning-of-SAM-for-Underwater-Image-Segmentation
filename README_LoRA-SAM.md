@@ -4,9 +4,6 @@ This repository contains the implementation of the following thesis work:
 > **Underwater Image Segmentation using LoRA-based Fine-Tuning of the Segment Anything Model (SAM)**  
 > *Zameer Khan*  
 > Indian Institute of Technology Roorkee, 2024  
-> [Project Advisor: Prof. Millie Pant]
-
-<img src="materials/underwater_pipeline.png" height="220px"/>
 
 ---
 
@@ -154,4 +151,3 @@ Thanks to:
 - [Segment Anything Model](https://github.com/facebookresearch/segment-anything)
 - [SAM-LoRA](https://github.com/JamesQFreeman/Sam_LoRA)
 - [SUIM Dataset](https://irvlab.cs.umn.edu/resources/suim-dataset)
-- Prof. Millie Pant for project guidance
